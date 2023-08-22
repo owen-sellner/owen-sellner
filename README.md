@@ -14,5 +14,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 
 ### Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owen-sellner&theme=shadow_green&show_icons=true&hide=stars,contribs,issues&show=reviews)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owen-sellner&theme=shadow_green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github Statistics -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=owen-sellner&theme=shadow_green&show_icons=true&hide=stars,contribs,issues&show=reviews" />
+</a>
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-sellner&theme=shadow_green&layout=compact" />
+</a>
