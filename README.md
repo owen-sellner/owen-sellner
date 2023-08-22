@@ -1,7 +1,7 @@
 # Hello! I'm Owen 
 
 ### About me
-- 📚 I'm a third year Management Engineering Student @ UWaterloo 📚
+- 📚 I'm a third year Management Engineering Student @ UWaterloo. 
 - 🎨 I’m currently learning front-end development and machine learning.
                                                              
 ### Languages and Tools                                                          
