@@ -20,5 +20,5 @@
 </a>
 <!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-sellner&theme=shadow_green&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-sellner&theme=shadow_green&layout=compact&size_weight=0.4&count_weight=0.6" />
 </a>
