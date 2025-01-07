@@ -1,9 +1,5 @@
 # Hello! I'm Owen 
 
-### About me
-- 📚 I'm a third year Management Engineering Student @ UWaterloo. 
-- 🎨 I’m currently learning front-end development and machine learning.
-                                                             
 ### Languages and Tools                                                          
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
